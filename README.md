@@ -6,3 +6,5 @@ We also look at an expanded game, Connect 6, which increases the state space of 
 * All models can be found in the ipynb files
 * All graphing scripts can be found in graphing.py
 * All data files can be found in data
+
+Austin Perales and Klara Lankford
